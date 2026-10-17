@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Forever Translator
+## Notes: Optický přenos chatu do offline překladače; bez sítě a automatického odesílání.
+## Author: Forever Translator
+## Version: 0.3.0
+## SavedVariables: ForeverTranslatorProbeDB
+
+OpticalTransport.lua
+Core.lua
+
